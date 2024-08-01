@@ -6,7 +6,7 @@
  
 **Live Site URL:** [Preview](https://66a851dfc3a7bcc679e5f76c--super-lollipop-0c695b.netlify.app/)
 
-## Description
+## Description 
 CryptoDashBoard is a sleek and user-friendly dashboard for monitoring cryptocurrency portfolios. It provides real-time data on wallet balances, recent transactions, and market trends, all in one place.
 
 ## Features
