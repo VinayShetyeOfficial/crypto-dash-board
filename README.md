@@ -1,7 +1,7 @@
  # CryptoDashBoard
 ![image1](https://github.com/user-attachments/assets/8e481d35-bfd3-4535-b713-5aeb446678f4)             
                     
-![image2](https://github.com/user-attachments/assets/2d6a9ed3-03cd-48a5-9aff-99d3f871a88d)        
+![image2](https://github.com/user-attachments/assets/2d6a9ed3-03cd-48a5-9aff-99d3f871a88d)         
    
    
 **Live Site URL:** [Preview](https://66a851dfc3a7bcc679e5f76c--super-lollipop-0c695b.netlify.app/)  
