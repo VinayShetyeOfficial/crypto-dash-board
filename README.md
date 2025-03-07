@@ -1,4 +1,4 @@
-# 📊 CryptoDashBoard [[Live Preview](https://66a851dfc3a7bcc679e5f76c--super-lollipop-0c695b.netlify.app/)]
+# 📊 CryptoDashBoard [[Live Preview](https://crypto-dash-board-live.netlify.app/)]
 
 A sophisticated cryptocurrency portfolio management dashboard providing real-time insights and transaction tracking capabilities.
 
